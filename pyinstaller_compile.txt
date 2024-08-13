@@ -1,1 +1,1 @@
-pyinstaller --onefile --name proxy_server run_proxy.py
+pyinstaller --onefile --collect-all pyfiglet --name proxy_server run_proxy.py
