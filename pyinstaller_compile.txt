@@ -1,0 +1,1 @@
+pyinstaller --onefile --name proxy_server run_proxy.py

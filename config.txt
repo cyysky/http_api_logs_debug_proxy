@@ -1,0 +1,7 @@
+{
+  "TARGET_URL": "http://localhost:8090",
+  "REQEST_CONNECTION_TIMEOUT": 2,
+  "REQEST_READ_TIMEOUT": 5,
+  "host": "0.0.0.0",
+  "port": 8888
+}
