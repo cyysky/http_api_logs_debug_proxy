@@ -39,7 +39,7 @@ Edit the `config.txt` file to set your configuration:
 Run the proxy server:
 
 ```bash
-python main.py
+python run_proxy.py
 ```
 
 The server will start on the host and port specified in the configuration file.
